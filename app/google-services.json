@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824994676404",
+    "project_id": "laundrite-ea398",
+    "storage_bucket": "laundrite-ea398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824994676404:android:3c8f4b818b3025e71fe1e1",
+        "android_client_info": {
+          "package_name": "com.example.laundrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824994676404-s4opd5sjtoq33ekobjs1a3aqn56fabtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszIfFUpLSiRPM1ZR5r7iB7JUeAMaid6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824994676404-s4opd5sjtoq33ekobjs1a3aqn56fabtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

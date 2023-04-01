@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LaundRite</string>
+
+
+    <string name="facebook_app_id">914439173078424</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">43964840872c96b4315da81889d17e62</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Closeigation Drawer</string>
+
+</resources>
